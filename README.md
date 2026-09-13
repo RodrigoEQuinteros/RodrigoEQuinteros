@@ -38,13 +38,23 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/py.svg"/> &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/R.svg"/> &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/sql.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/java.svg"/> &nbsp;  
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/javascript.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/nodejs.svg"/> &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/elasticsearch.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/jupyter.svg"/>&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/amazonwebservices.svg"/>&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/git.svg"/> &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/docker.svg"/>
+
 </p>
 
 ---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QPRodrigo&show_icons=true&theme=transparent&hide_border=true&title_color=1ca0f1&icon_color=1ca0f1" height="165" alt="Estadísticas de GitHub de Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QPRodrigo&layout=compact&theme=transparent&hide_border=true&title_color=1ca0f1" height="165" alt="Lenguajes más usados por Rodrigo" />
+</p>
+
+---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QPRodrigo.QPRodrigo&title=Visitas%20perfil)
