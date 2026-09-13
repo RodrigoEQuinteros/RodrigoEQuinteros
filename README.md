@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-rodrigo__eqp-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-e-quinteros-peralta-6a626b222/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@rodrigo__eqp-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rodrigo_eqp)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-connectwithrodrigoqp0722%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:connectwithrodrigoqp0722@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-QPRodrigo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QPRodrigo)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-RodrigoEQuinteros-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RodrigoEQuinteros)
 
 ---
 
@@ -35,15 +35,14 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
 ## ⚡ Tecnologías
 
 <p align="left">
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/py.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/R.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/sql.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/elasticsearch.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/jupyter.svg"/>&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/amazonwebservices.svg"/>&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/git.svg"/> &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/QPRodrigo/QPRodrigo/main/assets/docker.svg"/>
-
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/py.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/R.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/sql.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/elasticsearch.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/jupyter.svg"/>&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/amazonwebservices.svg"/>&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/docker.svg"/> &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/RodrigoEQuinteros/RodrigoEQuinteros/main/assets/git.svg"/>
 </p>
 
 ---
@@ -51,10 +50,10 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QPRodrigo&show_icons=true&theme=transparent&hide_border=true&title_color=1ca0f1&icon_color=1ca0f1" height="165" alt="Estadísticas de GitHub de Rodrigo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QPRodrigo&layout=compact&theme=transparent&hide_border=true&title_color=1ca0f1" height="165" alt="Lenguajes más usados por Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoEQuinteros&show_icons=true&theme=transparent&hide_border=true&title_color=1ca0f1&icon_color=1ca0f1" height="165" alt="Estadísticas de GitHub de Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoEQuinteros&layout=compact&theme=transparent&hide_border=true&title_color=1ca0f1" height="165" alt="Lenguajes más usados por Rodrigo" />
 </p>
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=QPRodrigo.QPRodrigo&title=Visitas%20perfil)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RodrigoEQuinteros.RodrigoEQuinteros&title=Visitas%20perfil)
