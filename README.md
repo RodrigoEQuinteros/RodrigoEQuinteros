@@ -47,13 +47,4 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-[![Rodrigo E. Quinteros github stats](https://github-readme-stats.vercel.app/api?username=QPRodrigo&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/QPRodrigo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QPRodrigo&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true&langs_count=8&locale=es)](https://github.com/QPRodrigo)
-
----
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QPRodrigo.QPRodrigo&title=Visitas%20perfil)
