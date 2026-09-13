@@ -54,7 +54,7 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
   <img src="https://streak-stats.demolab.com/?user=RodrigoEQuinteros&theme=transparent&hide_border=true&title_color=1ca0f1&icon_color=1ca0f1&text_color=ffffff" height="165" alt="Estadísticas de GitHub de Rodrigo" />
   
   <!-- Tarjeta de Lenguajes (Original) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoEQuinteros&layout=compact&theme=transparent&hide_border=true&title_color=1ca0f1" height="165" alt="Lenguajes más usados por Rodrigo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoEQuinteros&layout=compact&theme=transparent&hide_border=true&title_color=1ca0f1&v=1" height="165" alt="Lenguajes más usados por Rodrigo" />
 </p>
 
 ---
