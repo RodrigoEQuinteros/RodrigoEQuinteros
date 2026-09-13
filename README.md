@@ -22,8 +22,8 @@ Tengo interés en **Data Engineering, Analytics y plataformas de observabilidad*
 
 **[Real-Time Credit Risk & Transaction Monitoring](https://github.com/RodrigoEQuinteros/credit-risk-realtime-monitoring)**  
 Ecosistema *end-to-end* diseñado para la ingesta, procesamiento y visualización de indicadores de riesgo crediticio y transacciones financieras.
-- **Arquitectura:** La orquestación de servicios se realiza con **Docker**[cite: 1]. La generación continua de transacciones simuladas se ejecuta con **Python**, la recolección de logs transaccionales utiliza **Filebeat**, la transformación de datos se procesa en **Logstash**, y la indexación se maneja en **OpenSearch**[cite: 1].
-- **Impacto:** Demuestra un flujo de observabilidad aplicado al sector financiero para identificar patrones de riesgo, anomalías transaccionales y disponibilidad de servicios en tiempo real[cite: 1]. Incluye un panel en **OpenSearch Dashboards** con geolocalización, métricas de latencia y tendencias temporales de códigos de autorización[cite: 1].
+- **Arquitectura:** La orquestación de servicios se realiza con **Docker**. La generación continua de transacciones simuladas se ejecuta con **Python**, la recolección de logs transaccionales utiliza **Filebeat**, la transformación de datos se procesa en **Logstash**, y la indexación se maneja en **OpenSearch**.
+- **Impacto:** Demuestra un flujo de observabilidad aplicado al sector financiero para identificar patrones de riesgo, anomalías transaccionales y disponibilidad de servicios en tiempo real. Incluye un panel en **OpenSearch Dashboards** con geolocalización, métricas de latencia y tendencias temporales de códigos de autorización.
 ---
 
 ## 📄 Publicación Científica
